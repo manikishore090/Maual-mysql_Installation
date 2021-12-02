@@ -1,4 +1,4 @@
-This is 2200 new branch
+This is 2204` new branch
 MySql Manual Installation
 
 Installing MySQL 5.5.51 on Ubuntu 16.04 and 18.04
